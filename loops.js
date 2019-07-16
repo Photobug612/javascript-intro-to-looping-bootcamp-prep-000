@@ -19,6 +19,5 @@ function whileLoop(n) {
 }
 
 function doWhileLoop(num){
-
-console.log('I run once regardless')
+Javascript Intro To Looping
 }
